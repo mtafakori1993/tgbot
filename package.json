@@ -1,0 +1,14 @@
+{
+  "name": "bale-api-test",
+  "version": "1.0.0",
+  "description": "Bale Bot API test client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "form-data": "^4.0.4",
+    "multer": "^2.0.2"
+  }
+}
